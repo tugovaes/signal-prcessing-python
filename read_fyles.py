@@ -6,7 +6,7 @@
 """
 import pandas as pd
 import numpy as np
-#Ввудите имя файла
+#Ввeдите имя файла
 filename = '14_0_20200120.csv'
 
 
